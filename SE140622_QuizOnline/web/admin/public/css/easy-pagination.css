@@ -1,0 +1,17 @@
+.easyPaginateNav a {
+    color: #13140a;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.easyPaginateNav a.current {
+    font-weight: bold;
+    color: #13140a;
+    background-color: #aa7ac6;
+}
+
+.easyPaginateNav{
+    margin-left: 107px;
+    padding-top: 40px;
+}
+
